@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Calapsu 👋
+
+![me](https://user-images.githubusercontent.com/56056882/87878004-3094c900-c9a7-11ea-870e-f09c4fad0e54.jpg)
 
 ```js
 const calapsu = {
