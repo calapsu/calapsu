@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```js
+const calapsu = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, PHP],
+  tools: [React, Node, Styled-Components, Laravel],
+
+}
 <!--
 **calapsu/calapsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
