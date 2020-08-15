@@ -14,6 +14,8 @@ you can find me:
 
 -[facebook](https://www.facebook.com/calapsu.sebastian)
 
+
+[![calapsu's github stats](https://github-readme-stats.vercel.app/api?username=calapsu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **calapsu/calapsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
