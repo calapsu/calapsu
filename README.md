@@ -9,6 +9,7 @@ const calapsu = {
   tools: [React, Node, Styled-Components, Laravel],
 
 }
+```
 <!--
 **calapsu/calapsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
