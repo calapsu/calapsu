@@ -2,6 +2,8 @@
 
 ![me](https://user-images.githubusercontent.com/56056882/90317496-97969680-deef-11ea-91ff-b40d0538820e.png)
 
+## abount me in code
+
 ```js
 const calapsu = {
   pronouns: "he" | "him",
@@ -9,7 +11,8 @@ const calapsu = {
   tools: [React, Node, Styled-Components, Laravel],
 
 }
-```
+``` 
+
 you can find me:
 
 -[facebook](https://www.facebook.com/calapsu.sebastian)
